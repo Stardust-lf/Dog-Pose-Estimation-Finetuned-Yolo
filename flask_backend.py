@@ -328,7 +328,7 @@ def processed_file(filename):
     return send_from_directory(app.config['PROCESSED_FOLDER'], filename)
 
 def main():
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=1428, debug=True)
 
 if __name__ == "__main__":
     main()
