@@ -1,0 +1,8 @@
+kpt_shape:
+- 24
+- 3
+names:
+  0: dog
+path: C:\Users\Fan\PycharmProjects\animal-pose\animal-pose-data
+train: train\images
+val: valid\images
