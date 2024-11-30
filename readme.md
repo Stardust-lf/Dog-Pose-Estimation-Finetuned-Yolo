@@ -1,6 +1,6 @@
 # Light-weighted dog finding project
 ## Basics
-![Usage Frontpage](usage/frontpage.png)(usage/wholesystem.jpg)
+![Usage Frontpage](usage/wholesystem.png)(usage/wholesystem.jpg)
 
 ## To train the model(STANFORD-DOG dataset is necessary)
 	python train_model.py #bash
