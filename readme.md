@@ -1,4 +1,7 @@
-# Light-weighted dog finding server
+# Light-weighted dog finding project
+## Basics
+![Usage Frontpage](usage/frontpage.png)(usage/wholesystem.jpg)
+
 ## To train the model(STANFORD-DOG dataset is necessary)
 	python train_model.py #bash
 ## To get started with the flask server
